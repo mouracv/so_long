@@ -86,6 +86,7 @@ After compiling, you can run the game by executing:
 
 Replace [path_to_map_file] with the path to a valid map file. You can use one of the maps available in the `maps/` directory or provide your own custom map. 🗺️
 
+<br>
 
 ## 👨‍💻 Author
 - [GitHub](https://github.com/mouracv)
