@@ -1,4 +1,4 @@
-# So Long 🎮
+# So Long
 
 Welcome to the `so_long` project! This repository contains a small, yet engaging 2D game 🕹️ developed as a part of learning and demonstrating proficiency in C programming 💻 and graphical library usage, such as miniLibX. The game is built with the aim of providing a simple, fun experience while showcasing the capabilities of low-level programming in creating interactive applications.
 
@@ -12,7 +12,7 @@ Welcome to the `so_long` project! This repository contains a small, yet engaging
 - **Simple Controls**: Move the player character using keyboard inputs. ⌨️
 - **Portable Code**: Written in C for easy compilation and execution on various platforms. 🔄
 
-## Game Infos
+## Game Info 🎯
 
 ### Map Format 🧩
 
@@ -31,7 +31,7 @@ Example:
 111111111111111
 ```
 
-### Game Info 🎯
+### Controls 🎮
 
 | KEY |	OBJECT   |
 | --------- | ---------- |
