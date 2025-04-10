@@ -1,3 +1,9 @@
+<br>
+<p align="center">
+  <img src="assets/example.png" alt="Infrastructure diagram" width="500">
+</p>
+<br>
+
 # So Long
 
 Welcome to the `so_long` project! This repository contains a small, yet engaging 2D game 🕹️ developed as a part of learning and demonstrating proficiency in C programming 💻 and graphical library usage, such as miniLibX. The game is built with the aim of providing a simple, fun experience while showcasing the capabilities of low-level programming in creating interactive applications.
@@ -39,7 +45,7 @@ Example:
 | A	or ⬅️        |    Move left |
 | S	or ⬇️     |    Move down   |
 | D or ➡️       |   Move para right|      
-| Q or Esc      |   Close the game     | 
+| Esc      |   Close the game     | 
 
 <br>
 
