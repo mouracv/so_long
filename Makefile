@@ -24,9 +24,9 @@ SRCS =	src/so_long.c src/check_args.c src/check_map.c src/check_map_2.c src/star
 
 MLX = mlx_linux
 
-LIBFT_DIR = ./libft
+LIBFT_DIR = ./lib
 
-LIBFT = ./libft/libft.a
+LIBFT = ./lib/libft.a
 
 OJBS = $(SRCS:.c=.o)
 
@@ -44,6 +44,14 @@ clean:
 fclean:	clean
 		make fclean -C $(LIBFT_DIR)
 		$(RM) $(NAME)
+
+download_mlx:
+	@ curl -O https://cdn.intra.42.fr/document/document/32342/minilibx-linux.tgz && tar -xvzf minilibx-linux.tgz
+	@ tar -xvzf minilibx-linux.tgz && mv minilibx-linux $(MLX)
+	@ rm -rf minilibx-linux.tgz
+
+delete_all: fclean 
+	@ rm -rf $(MLX)
 
 re: fclean all
 

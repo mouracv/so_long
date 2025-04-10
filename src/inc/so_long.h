@@ -15,7 +15,7 @@
 
 # include "../../GNL/get_next_line.h"
 # include "../../ft_printf/ft_printf.h"
-# include "../../libft/libft.h"
+# include "../../lib/libft.h"
 # include "../../mlx_linux/mlx.h"
 # include "constants.h"
 # include <X11/X.h>
