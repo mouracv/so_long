@@ -89,5 +89,4 @@ Replace [path_to_map_file] with the path to a valid map file. You can use one of
 <br>
 
 ## 👨‍💻 Author
-- [GitHub](https://github.com/mouracv)
 - [Linkedin](https://www.linkedin.com/in/alexsandro-moreira-2b438a347/)
